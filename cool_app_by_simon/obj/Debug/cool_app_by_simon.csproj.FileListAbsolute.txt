@@ -1,0 +1,8 @@
+D:\simon\cool_app_by_simon\cool_app_by_simon\bin\Debug\cool_app_by_simon.exe
+D:\simon\cool_app_by_simon\cool_app_by_simon\bin\Debug\cool_app_by_simon.pdb
+D:\simon\cool_app_by_simon\cool_app_by_simon\obj\Debug\cool_app_by_simon.csprojResolveAssemblyReference.cache
+D:\simon\cool_app_by_simon\cool_app_by_simon\obj\Debug\cool_app_by_simon.Form1.resources
+D:\simon\cool_app_by_simon\cool_app_by_simon\obj\Debug\cool_app_by_simon.Properties.Resources.resources
+D:\simon\cool_app_by_simon\cool_app_by_simon\obj\Debug\cool_app_by_simon.csproj.GenerateResource.Cache
+D:\simon\cool_app_by_simon\cool_app_by_simon\obj\Debug\cool_app_by_simon.exe
+D:\simon\cool_app_by_simon\cool_app_by_simon\obj\Debug\cool_app_by_simon.pdb

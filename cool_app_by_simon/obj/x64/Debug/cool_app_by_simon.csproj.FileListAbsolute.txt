@@ -1,0 +1,16 @@
+D:\simon\cool_app_by_simon\cool_app_by_simon\bin\x64\Debug\cool_app_by_simon.dll
+D:\simon\cool_app_by_simon\cool_app_by_simon\bin\x64\Debug\cool_app_by_simon.pdb
+D:\simon\cool_app_by_simon\cool_app_by_simon\bin\x64\Debug\Itri.Vmx.App.dll
+D:\simon\cool_app_by_simon\cool_app_by_simon\bin\x64\Debug\Itri.Vmx.dll
+D:\simon\cool_app_by_simon\cool_app_by_simon\bin\x64\Debug\IVmx2Robot.dll
+D:\simon\cool_app_by_simon\cool_app_by_simon\bin\x64\Debug\IVmx2Plc.dll
+D:\simon\cool_app_by_simon\cool_app_by_simon\bin\x64\Debug\NLog.dll
+D:\simon\cool_app_by_simon\cool_app_by_simon\bin\x64\Debug\IVmx2Cnc.dll
+D:\simon\cool_app_by_simon\cool_app_by_simon\bin\x64\Debug\NLog.xml
+D:\simon\cool_app_by_simon\cool_app_by_simon\obj\x64\Debug\cool_app_by_simon.Form1.resources
+D:\simon\cool_app_by_simon\cool_app_by_simon\obj\x64\Debug\cool_app_by_simon.Properties.Resources.resources
+D:\simon\cool_app_by_simon\cool_app_by_simon\obj\x64\Debug\cool_app_by_simon.csproj.GenerateResource.Cache
+D:\simon\cool_app_by_simon\cool_app_by_simon\obj\x64\Debug\cool_app_by_simon.dll
+D:\simon\cool_app_by_simon\cool_app_by_simon\obj\x64\Debug\cool_app_by_simon.pdb
+D:\simon\VMX Host\Plugins\cool_app_by_simon\cool_app_by_simon.dll
+D:\simon\VMX Host\Plugins\cool_app_by_simon\cool_app_by_simon.pdb
