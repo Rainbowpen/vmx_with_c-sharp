@@ -1,1 +1,1 @@
-# This is friday vmx class's midterm note
+# This is friday vmx class's midterm notes
